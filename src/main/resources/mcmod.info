@@ -1,0 +1,16 @@
+[
+{
+  "modid": "UniversalPower",
+  "name": "Universal|Power",
+  "description": "A power library used for all UniversalTeam's mods based on the RF api and compatible with more power systems like Universal Electricity, IndustrialCraft and maybe more",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "www.github.com/Universalteam/UniversalPower",
+  "updateUrl": "www.github.com/Universalteam/UniversalPower",
+  "authorList": ["UniversalTeam"],
+  "credits": "Credits go to UniversalTeam",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
